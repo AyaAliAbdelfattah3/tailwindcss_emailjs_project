@@ -4,7 +4,7 @@ import { shape } from "../assets";
 
 const Video = () => {
   return (
-    <div className="bg-[#090C34] py-14">
+    <div className="bg-[#090C34] py-14 mt-6">
       <div className="container mx-auto">
         <div className="text-center">
           <h1 className="text-4xl font-bold text-white">

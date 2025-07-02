@@ -3,13 +3,13 @@ import { hero } from "../assets";
 
 const Home = () => {
   return (
-    <div className="container mx-auto flex justify-between py-4 px-4" >
+    <div className="container mx-auto flex justify-between py-5 px-7" >
       <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-7">
         <div className="flex flex-col">
-          <h1 className="font-3xl font-bold">
+          <h1 className="text-2xl font-bold">
             Tailwind Template for NFT Marketplace and Web3 Platforms
           </h1>
-          <p className="text-gray-500 mt-4">
+          <p className="text-gray-600 mt-4">
             {" "}
             Template for NFT, Token, and Web3 marketplace projects, based on
             Tailwind CSS. Comes with all the essential UI components and pages

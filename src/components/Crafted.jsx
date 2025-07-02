@@ -3,9 +3,9 @@ import { about } from "../assets";
 
 const Crafted = () => {
   return (
-    <div className="bg-[#090E34] mt-8">
+    <div className="bg-[#090E34] mt-8 ">
       <div className="container mx-auto grid grid-cols-1 md:grid-cols-2 items-center gap-8 ">
-        <div className="text-white mt-7">
+        <div className="text-white mt-7 ml-7">
           <h1 className="text-4xl">
             {" "}
             Crafted for Startup, SaaS and Business Sites.
